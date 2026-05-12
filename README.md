@@ -17,6 +17,7 @@ I think about health equity, determinants of health (social, digital, and commer
 - Personal Fediverse Server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
 - LinkedIn: [wilfredstephenanfield](https://www.linkedin.com/in/wilfredstephenanfield)
+- Facebook: [wstephenanfield](https://www.facebook.com/wstephenanfield) 
 - Threads: [@wilfredstephenanfield](https://www.threads.com/@wilfredstephenanfield)
 - ORCID: [0009-0002-1140-3107](https://orcid.org/0009-0002-1140-3107)
 - Gravatar [wilfredstephenanfield](https://gravatar.com/wilfredstephenanfield)
