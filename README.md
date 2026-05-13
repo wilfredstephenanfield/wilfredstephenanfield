@@ -12,7 +12,7 @@ I think about health equity, determinants of health (social, digital, and commer
 
 ### Find me
 
-- Website: [wilfredstephenanfield.com](https://wilfredstephenanfield.com/)
+- Website: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
 - Bluesky: [wilfredstephenanfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - Personal Fediverse Server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
