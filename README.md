@@ -12,7 +12,7 @@ I think about health equity, determinants of health (social, digital, and commer
 
 ### Find me
 
-- Website: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
+- About Wilfred Stephen Anfield: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
 - Bluesky: [wilfredstephenanfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - Personal Fediverse Server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
@@ -22,5 +22,6 @@ I think about health equity, determinants of health (social, digital, and commer
 - ORCID: [0009-0002-1140-3107](https://orcid.org/0009-0002-1140-3107)
 - Gravatar: [wilfredstephenanfield](https://gravatar.com/wilfredstephenanfield)
 - about.me: [wilfredstephenanfield](https://about.me/wilfredstephenanfield)
+- YouTube: [@wilfredstephenanfield](https://www.youtube.com/@wilfredstephenanfield)
 
 _Moved here from [@stephenanfield](https://github.com/stephenanfield)._
