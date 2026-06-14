@@ -2,6 +2,10 @@
 
 Public health strategist, writer, and caregiver powered by joy. Based in Washington, D.C.
 
+**Grits fed. Purpose led. 🧡**
+
+---
+
 I think about health equity, the determinants of health (social, digital, and commercial), digital inclusion, and participatory design. The thread through all of it: the lens is the problem, not the people. I use GitHub to build and maintain [my personal site](https://wilfredstephenanfield.com/).
 
 ## What I'm working on
@@ -12,7 +16,7 @@ I think about health equity, the determinants of health (social, digital, and co
 
 ### Find me
 
-- About Wilfred Stephen Anfield: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
+- Read more about me and my Southern origin story: [wilfredstephenanfield.com/about/](https://wilfredstephenanfield.com/about/)
 - Bluesky: [wilfredstephenanfield.com](https://bsky.app/profile/wilfredstephenanfield.com)
 - Personal Fediverse Server: [@stephen@wilfredstephenanfield.com](https://fediverse.wilfredstephenanfield.com/@stephen)
 - Mastodon: [@wilfredstephenanfield@mastodon.social](https://mastodon.social/@wilfredstephenanfield)
